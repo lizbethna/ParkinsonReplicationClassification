@@ -2,11 +2,14 @@
 A Flexible Replication-Based Classification Approach for Parkinson's Disease Detection by Using Voice Recordings
  
 Lizbeth Naranjo, Ruth Fuentes-Garcia, Carlos J. Perez.
+
+33rd National Forum of Statistics (FNE) and 13th Latin-American Congress of Statistical Societies (CLATSE)
+Springer Proceedings in Mathematics & Statistics
 */
  
 model{
 
-### TRAINING
+### TRAINING
 	for(i in 1:N){
 		Y[i] ~ dbern(P[i])
 		logit(P[i]) <- Beta%*%W[i,] + Gsex*Z[i] + Gintercept
@@ -22,7 +25,7 @@ model{
 		}
 	}	
 
-### TESTING
+### TESTING
 	for(i in 1:N.new){
 		Y.new[i] ~ dbern(P.new[i])
 		logit(P.new[i]) <- Beta%*%W.new[i,] + Gsex*Z.new[i] + Gintercept
