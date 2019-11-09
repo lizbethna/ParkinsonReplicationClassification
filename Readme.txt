@@ -10,11 +10,15 @@ Lizbeth Naranjo (1), Ruth Fuentes-Garcia (1), Carlos J. Perez (2).
 (2) Universidad de Extremadura, Spain
 
 Title: 
-33rd National Forum of Statistics (FNE) and 13th Latin-American Congress of Statistical Societies (CLATSE)
+Selected Contributions on Statistics and Data Science in Latin America. FNE 2018. 
 
 Publisher:
-Springer Proceedings in Mathematics & Statistics
+Springer Proceedings in Mathematics & Statistics, vol 301. Springer, Cham.
 
+##################################################
+
+Data:
+https://archive.ics.uci.edu/ml/datasets/Parkinson+Dataset+with+replicated+acoustic+features+
 
 ##################################################
 
@@ -52,7 +56,8 @@ Related references (using the same dataset)
 
 - Naranjo,L., Perez,C.J., Campos-Roca,Y., Martın,J. (2016).
  Addressing voice recording replications for Parkinson's disease detection. 
-Expert Systems With Applications 46, 286–292
+Expert Systems With Applications 46, 286–292
+
 
 - Naranjo, L.,Perez,C.J., Martın,J., Campos-Roca,Y. (2017).
  A two-stage variable selection and classification approach for Parkinson's disease detection by using voice recording replications. 
