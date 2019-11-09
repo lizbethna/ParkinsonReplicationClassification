@@ -12,6 +12,9 @@ Lizbeth Naranjo (1), Ruth Fuentes-Garcia (1), Carlos J. Perez (2).
 Title: 
 Selected Contributions on Statistics and Data Science in Latin America. FNE 2018. 
 
+Editors: 
+Antoniano-Villalobos, I., Mena, R. H., Mendoza, M., Naranjo, L., and Nieto-Barajas, L. E. 
+
 Publisher:
 Springer Proceedings in Mathematics & Statistics, vol 301. Springer, Cham.
 
